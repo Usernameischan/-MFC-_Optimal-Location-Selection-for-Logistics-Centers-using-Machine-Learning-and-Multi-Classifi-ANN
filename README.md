@@ -1,3 +1,21 @@
+- DM_Classification_ANN -> 지도학습을 위해 가공된 최종 데이터셋으로 4가지 분류알고리즘과 다중분류신경망의 입지적합도 예측결과
+- DM_Clustering -> 비지도학습 위해 가공된 최종 데이터셋으로 소비자 입장에서 클러스터링 결과를 해석 및 도심형물류센터(MFC)가 가장 필요한 지역 선정
+
+- DM_DataPreprocessing1 -> 비지도학습(클러스터링) 위한 raw data 전처리
+
+- DM_DataPreprocessing2 -> 지도학습(분류,신경망)위한 raw data 전처리
+- DM_독립변수_추출 -> 독립변수 추출 전처리 (코드 정리 후 추후 업로드 예정)
+
+- EDA_for_Clustering -> 클러스터링을 위한 데이터셋 EDA
+- 독립변수_EDA -> 지도학습을 위한 데이터셋 독립변수 EDA
+
+
+
+
+
+
+
+
 # MFC(Micor-Fullfilment_Center)
 
 ### Abstract
