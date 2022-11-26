@@ -1,3 +1,7 @@
+- 사용 언어 : Python
+- 사용한 툴 : Jupyter lab, Qgis, Kakao API, Excel
+- 사용한 주요 라이브러리 : sklearn, tensorflow.keras, folium, matplotlib, pycaret
+- ### Python 파일 개요
 - DM_Classification_ANN -> 지도학습을 위해 가공된 최종 데이터셋으로 4가지 분류알고리즘과 다중분류신경망의 입지적합도 예측결과
 - DM_Clustering -> 비지도학습 위해 가공된 최종 데이터셋으로 소비자 입장에서 클러스터링 결과를 해석 및 도심형물류센터(MFC)가 가장 필요한 지역 선정
 
